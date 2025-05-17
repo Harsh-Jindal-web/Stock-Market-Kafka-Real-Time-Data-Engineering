@@ -169,8 +169,3 @@ aws configure
 
 ---
 
-## 📎 Optional
-
-Let me know if you’d like to include:
-- Automation scripts
-- Kafka consumer Python code to upload to S3
